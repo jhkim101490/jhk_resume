@@ -120,8 +120,8 @@ p.lead {
     -ms-transform: rotate(90deg); /* IE 9 */
     -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
     transform: rotate(90deg);
-    max-width: 15rem;
-    max-height: 15rem;
+    max-width: 50rem;
+    max-height: 50rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
